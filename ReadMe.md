@@ -1,6 +1,6 @@
 # 🌐 Canific AI
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fcanific.dev)
+![Website](https://img.shields.io/website?url=https://canific.dev)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ysfcndgr/canific)
 ![GitHub stars](https://img.shields.io/github/stars/ysfcndgr/canific?style=social)
 ![License](https://img.shields.io/github/license/ysfcndgr/canific)
