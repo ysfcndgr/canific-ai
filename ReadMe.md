@@ -12,50 +12,57 @@
 ## 🚀 Features
 
 ### 🔍 Advanced Machine Learning
-- Utilize state-of-the-art ML algorithms for intelligent data analysis and decision-making.
+- Utilize state-of-the-art ML algorithms for intelligent data analysis and decision-making
+- Integration with Azure OpenAI and Ollama for AI capabilities
+- Semantic Kernel for AI orchestration and plugin management
 
 ### ⚡ Real-Time Processing
-- Process high-volume data streams with ultra-low latency using Canific’s real-time infrastructure.
+- Process high-volume data streams with ultra-low latency
+- Message queuing with EasyNetQ for reliable communication
+- Real-time data processing with FFMpegCore
 
 ### 🎨 Creative AI Tools
-- Instantly generate high-quality content, visuals, and ideas powered by AI.
+- Instantly generate high-quality content, visuals, and ideas powered by AI
+- Google Drive and Docs integration for document management
+- Advanced media processing capabilities
+
+### 🔒 Security & Authentication
+- JWT-based authentication system
+- Role-based access control with ASP.NET Identity
+- Secure API endpoints with proper authorization
 
 ---
 
 ## 🧰 Tech Stack
 
-| Technology        | Usage                             |
-|-------------------|-----------------------------------|
-| **Next.js**       | Frontend framework                |
-| **TypeScript**    | Static typing                     |
-| **Tailwind CSS**  | Utility-first CSS framework       |
-| **.NET Core**     | Backend APIs and business logic   |
-| **Vercel**        | Deployment and hosting (frontend) |
-| **OpenAI API**    | AI content generation             |
-| **Socket.IO**     | Real-time communication (optional)|
-| **Node.js**       | Backend runtime environment       |
+### Frontend
+| Technology        | Usage                                    |
+|-------------------|------------------------------------------|
+| **Next.js 14**    | React framework with App Router          |
+| **TypeScript**    | Static typing and type safety           |
+| **Tailwind CSS**  | Utility-first CSS framework             |
+| **Radix UI**      | Unstyled, accessible UI components      |
+| **Framer Motion** | Animations and transitions              |
+| **React Hook Form**| Form handling and validation            |
+| **Zod**           | Schema validation                       |
 
----
+### Backend
+| Technology                    | Usage                                    |
+|-------------------------------|------------------------------------------|
+| **.NET 9.0**                 | Core framework and runtime               |
+| **Entity Framework Core**    | Database ORM and migrations              |
+| **SQL Server**               | Primary database                         |
+| **ASP.NET Identity**         | Authentication and authorization         |
+| **JWT Bearer**               | Token-based authentication              |
+| **Semantic Kernel**          | AI orchestration and plugin system       |
+| **Ollama**                   | Local AI model support                   |
+| **EasyNetQ**                 | Message queuing system                   |
+| **FFMpegCore**               | Media processing                         |
+| **Google APIs**              | Drive and Docs integration               |
+| **Stripe.net**               | Payment processing                       |
 
-## 👥 Meet the Team
-A passionate and skilled team of AI engineers, designers, and product visionaries behind Canific.  
-➡️ [View Team](https://canific.dev/team)
 
-## 💼 About Canific
-We aim to democratize access to powerful AI tools for everyone — from indie developers to large enterprises.  
-➡️ [Learn More](https://canific.dev/about)
 
-## 📬 Contact
-For feedback, support, or partnership opportunities:  
-➡️ [Contact Us](https://canific.dev/contact)
-
-## 💳 Subscription Plans
-Flexible pricing for individuals and teams.  
-➡️ [See Plans](https://canific.dev/subscription)
-
-## 🧪 Try It Now
-Start your free trial today and explore the future of AI.  
-➡️ [Get Started](https://canific.dev/#get-started)
 
 ---
 
