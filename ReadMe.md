@@ -59,6 +59,8 @@
 | **EasyNetQ**                 | Message queuing system                   |
 | **FFMpegCore**               | Media processing                         |
 | **Google APIs**              | Drive and Docs integration               |
+| **RabbitMQ**                 | Message broker for async processing      |
+| **Email Services**           | SMTP-based email functionality           |
 | **Stripe.net**               | Payment processing                       |
 
 
