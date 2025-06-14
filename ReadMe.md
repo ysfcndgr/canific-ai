@@ -62,9 +62,7 @@
 | **RabbitMQ**                 | Message broker for async processing      |
 | **Email Services**           | SMTP-based email functionality           |
 | **Stripe.net**               | Payment processing                       |
-
-
-
+| **Cloudflare**               | DDoS protection, CDN, and performance optimization |
 
 ---
 
