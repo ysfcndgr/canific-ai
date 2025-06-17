@@ -1,9 +1,6 @@
 # 🌐 Canific AI
 
 ![Website](https://img.shields.io/website?url=https://canific.dev)
-![GitHub last commit](https://img.shields.io/github/last-commit/ysfcndgr/canific)
-![GitHub stars](https://img.shields.io/github/stars/ysfcndgr/canific?style=social)
-![License](https://img.shields.io/github/license/ysfcndgr/canific)
 
 **Canific AI** is a next-generation artificial intelligence platform designed to empower developers, researchers, and creatives with powerful tools for content creation, machine learning, and real-time data processing.
 
