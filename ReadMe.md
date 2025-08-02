@@ -64,4 +64,4 @@
 ---
 
 > Built with ❤️ by the Canific AI Team.  
-> Visit [Canific.dev](https://canific.dev) to learn more.
+> Visit [Canific.dev](https://www.canific.dev) to learn more.
